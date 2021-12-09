@@ -18,26 +18,7 @@
     </server>
   </servers>
   <mirrors>
-	<mirror>
-      <id>yougou</id>
-      <mirrorOf>*</mirrorOf>
-      <url>http://m2repo.wonhigh.cn:8081/nexus/content/groups/public/</url>
-    </mirror>
-    <mirror>
-      <id>yougou</id>
-      <mirrorOf>*</mirrorOf>
-      <url>http://m2repo.wonhigh.cn:8081/nexus/content/repositories/thirdparty/</url>
-    </mirror>
-    <mirror>
-      <id>yougou</id>
-      <mirrorOf>*</mirrorOf>
-      <url>http://m2repo.wonhigh.cn:8081/nexus/content/repositories/snapshots/</url>
-    </mirror>
-    <mirror>
-      <id>yougou</id>
-      <mirrorOf>*</mirrorOf>
-      <url>http://m2repo.wonhigh.cn:8081/nexus/content/repositories/releases/</url>
-    </mirror>
+	 
 	<mirror>
       <id>yougou</id>
       <mirrorOf>*</mirrorOf>
